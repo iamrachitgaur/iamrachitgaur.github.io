@@ -134,7 +134,7 @@ class AppComponent {
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
-AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 31, vars: 0, consts: [[1, "container"], [1, "py-5"], [1, "row", "justify-content-center", "align-items-center", "flex-wrap-reverse"], [1, "col-lg"], [1, "body-text"], [1, "py-2", "heading"], [1, "body-text", "d-flex"], [1, "mx-1"], [1, "content-list"], [1, "word-box"], [1, "px-1", "animate1"], [1, "px-1", "animate2"], [1, "px-1", "animate3"], [1, "py-3"], ["href", "https://github.com/iamrachitgaur/resume/blob/main/resume.pdf", 1, "btn", "btn-sm", "button"], [1, "p-0", "col-lg"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
+AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({ type: AppComponent, selectors: [["app-root"]], decls: 31, vars: 0, consts: [[1, "container"], [1, "py-5"], [1, "row", "justify-content-center", "align-items-center", "flex-wrap-reverse"], [1, "col-lg"], [1, "body-text"], [1, "py-2", "heading"], [1, "body-text", "d-flex"], [1, "mx-1"], [1, "content-list"], [1, "word-box"], [1, "px-1", "animate1"], [1, "px-1", "animate2"], [1, "px-1", "animate3"], [1, "py-3"], ["href", "iamrachitgaur.github.io/resume.pdf", 1, "btn", "btn-sm", "button"], [1, "p-0", "col-lg"]], template: function AppComponent_Template(rf, ctx) { if (rf & 1) {
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "section");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 0);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](2, "div", 1);
@@ -162,7 +162,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCompo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](19, "Competitive Coder...");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](20, "div", 10);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "BCA Postgrad...");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](21, "MCA Postgrad...");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
